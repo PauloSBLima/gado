@@ -1,0 +1,11 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:35:25Z",
+        "modelo_utilizado": "yolo26x.pt",
+        "opcao_escolhida": "37",
+        "total_cabecas_detectadas": 0,
+        "confianca_media_lote": 0,
+        "tempo_inferencia_ms": 2908.56
+    },
+    "detalhamento_animais": []
+}

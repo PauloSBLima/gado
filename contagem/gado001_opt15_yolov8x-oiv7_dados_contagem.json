@@ -1,0 +1,11 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:35:54Z",
+        "modelo_utilizado": "yolov8x-oiv7.pt",
+        "opcao_escolhida": "15",
+        "total_cabecas_detectadas": 0,
+        "confianca_media_lote": 0,
+        "tempo_inferencia_ms": 2666.63
+    },
+    "detalhamento_animais": []
+}

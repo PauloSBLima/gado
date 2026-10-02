@@ -1,0 +1,232 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:23:24Z",
+        "modelo_utilizado": "yolo26x.pt",
+        "opcao_escolhida": "37",
+        "total_cabecas_detectadas": 20,
+        "confianca_media_lote": 40.74,
+        "tempo_inferencia_ms": 3113.71
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "sheep",
+            "confianca_pct": 80.32,
+            "geometria_bbox": {
+                "x_min": 1516,
+                "y_min": 3281,
+                "x_max": 1781,
+                "y_max": 3419
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "sheep",
+            "confianca_pct": 70.21,
+            "geometria_bbox": {
+                "x_min": 1191,
+                "y_min": 3160,
+                "x_max": 1431,
+                "y_max": 3290
+            }
+        },
+        {
+            "id_deteccao": 3,
+            "classe": "sheep",
+            "confianca_pct": 67.4,
+            "geometria_bbox": {
+                "x_min": 785,
+                "y_min": 3367,
+                "x_max": 1044,
+                "y_max": 3538
+            }
+        },
+        {
+            "id_deteccao": 4,
+            "classe": "sheep",
+            "confianca_pct": 53.63,
+            "geometria_bbox": {
+                "x_min": 1623,
+                "y_min": 2994,
+                "x_max": 1792,
+                "y_max": 3113
+            }
+        },
+        {
+            "id_deteccao": 5,
+            "classe": "sheep",
+            "confianca_pct": 53.31,
+            "geometria_bbox": {
+                "x_min": 576,
+                "y_min": 3294,
+                "x_max": 843,
+                "y_max": 3422
+            }
+        },
+        {
+            "id_deteccao": 6,
+            "classe": "sheep",
+            "confianca_pct": 48.65,
+            "geometria_bbox": {
+                "x_min": 362,
+                "y_min": 3232,
+                "x_max": 606,
+                "y_max": 3365
+            }
+        },
+        {
+            "id_deteccao": 7,
+            "classe": "sheep",
+            "confianca_pct": 48.42,
+            "geometria_bbox": {
+                "x_min": 2214,
+                "y_min": 3202,
+                "x_max": 2426,
+                "y_max": 3319
+            }
+        },
+        {
+            "id_deteccao": 8,
+            "classe": "sheep",
+            "confianca_pct": 43.9,
+            "geometria_bbox": {
+                "x_min": 555,
+                "y_min": 3000,
+                "x_max": 781,
+                "y_max": 3118
+            }
+        },
+        {
+            "id_deteccao": 9,
+            "classe": "sheep",
+            "confianca_pct": 42.73,
+            "geometria_bbox": {
+                "x_min": 766,
+                "y_min": 3162,
+                "x_max": 1011,
+                "y_max": 3294
+            }
+        },
+        {
+            "id_deteccao": 10,
+            "classe": "sheep",
+            "confianca_pct": 36.25,
+            "geometria_bbox": {
+                "x_min": 520,
+                "y_min": 2902,
+                "x_max": 718,
+                "y_max": 3019
+            }
+        },
+        {
+            "id_deteccao": 11,
+            "classe": "sheep",
+            "confianca_pct": 34.0,
+            "geometria_bbox": {
+                "x_min": 621,
+                "y_min": 3122,
+                "x_max": 844,
+                "y_max": 3235
+            }
+        },
+        {
+            "id_deteccao": 12,
+            "classe": "sheep",
+            "confianca_pct": 33.08,
+            "geometria_bbox": {
+                "x_min": 1421,
+                "y_min": 2917,
+                "x_max": 1659,
+                "y_max": 3043
+            }
+        },
+        {
+            "id_deteccao": 13,
+            "classe": "sheep",
+            "confianca_pct": 32.92,
+            "geometria_bbox": {
+                "x_min": 1069,
+                "y_min": 3102,
+                "x_max": 1280,
+                "y_max": 3212
+            }
+        },
+        {
+            "id_deteccao": 14,
+            "classe": "sheep",
+            "confianca_pct": 26.97,
+            "geometria_bbox": {
+                "x_min": 615,
+                "y_min": 2707,
+                "x_max": 814,
+                "y_max": 2810
+            }
+        },
+        {
+            "id_deteccao": 15,
+            "classe": "sheep",
+            "confianca_pct": 26.25,
+            "geometria_bbox": {
+                "x_min": 1428,
+                "y_min": 2374,
+                "x_max": 1634,
+                "y_max": 2481
+            }
+        },
+        {
+            "id_deteccao": 16,
+            "classe": "sheep",
+            "confianca_pct": 25.62,
+            "geometria_bbox": {
+                "x_min": 1614,
+                "y_min": 2888,
+                "x_max": 1778,
+                "y_max": 2985
+            }
+        },
+        {
+            "id_deteccao": 17,
+            "classe": "sheep",
+            "confianca_pct": 23.59,
+            "geometria_bbox": {
+                "x_min": 2259,
+                "y_min": 2771,
+                "x_max": 2412,
+                "y_max": 2895
+            }
+        },
+        {
+            "id_deteccao": 18,
+            "classe": "sheep",
+            "confianca_pct": 23.38,
+            "geometria_bbox": {
+                "x_min": 1924,
+                "y_min": 2825,
+                "x_max": 2087,
+                "y_max": 2960
+            }
+        },
+        {
+            "id_deteccao": 19,
+            "classe": "sheep",
+            "confianca_pct": 22.34,
+            "geometria_bbox": {
+                "x_min": 1892,
+                "y_min": 3182,
+                "x_max": 2014,
+                "y_max": 3299
+            }
+        },
+        {
+            "id_deteccao": 20,
+            "classe": "sheep",
+            "confianca_pct": 21.9,
+            "geometria_bbox": {
+                "x_min": 584,
+                "y_min": 3261,
+                "x_max": 856,
+                "y_max": 3364
+            }
+        }
+    ]
+}

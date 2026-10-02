@@ -1,0 +1,23 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:34:36Z",
+        "modelo_utilizado": "yolov8x-world.pt",
+        "opcao_escolhida": "41",
+        "total_cabecas_detectadas": 1,
+        "confianca_media_lote": 20.72,
+        "tempo_inferencia_ms": 3367.21
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "sheep",
+            "confianca_pct": 20.72,
+            "geometria_bbox": {
+                "x_min": 180,
+                "y_min": 197,
+                "x_max": 679,
+                "y_max": 521
+            }
+        }
+    ]
+}

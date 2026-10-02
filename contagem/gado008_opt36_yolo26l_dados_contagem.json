@@ -1,0 +1,155 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:29:16Z",
+        "modelo_utilizado": "yolo26l.pt",
+        "opcao_escolhida": "36",
+        "total_cabecas_detectadas": 13,
+        "confianca_media_lote": 37.46,
+        "tempo_inferencia_ms": 1763.84
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "sheep",
+            "confianca_pct": 62.35,
+            "geometria_bbox": {
+                "x_min": 87,
+                "y_min": 594,
+                "x_max": 167,
+                "y_max": 762
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "sheep",
+            "confianca_pct": 62.29,
+            "geometria_bbox": {
+                "x_min": 9,
+                "y_min": 573,
+                "x_max": 98,
+                "y_max": 761
+            }
+        },
+        {
+            "id_deteccao": 3,
+            "classe": "horse",
+            "confianca_pct": 58.7,
+            "geometria_bbox": {
+                "x_min": 313,
+                "y_min": 571,
+                "x_max": 439,
+                "y_max": 787
+            }
+        },
+        {
+            "id_deteccao": 4,
+            "classe": "horse",
+            "confianca_pct": 49.65,
+            "geometria_bbox": {
+                "x_min": 582,
+                "y_min": 574,
+                "x_max": 667,
+                "y_max": 793
+            }
+        },
+        {
+            "id_deteccao": 5,
+            "classe": "sheep",
+            "confianca_pct": 45.48,
+            "geometria_bbox": {
+                "x_min": 906,
+                "y_min": 575,
+                "x_max": 998,
+                "y_max": 797
+            }
+        },
+        {
+            "id_deteccao": 6,
+            "classe": "sheep",
+            "confianca_pct": 34.23,
+            "geometria_bbox": {
+                "x_min": 758,
+                "y_min": 605,
+                "x_max": 836,
+                "y_max": 758
+            }
+        },
+        {
+            "id_deteccao": 7,
+            "classe": "cow",
+            "confianca_pct": 31.52,
+            "geometria_bbox": {
+                "x_min": 9,
+                "y_min": 573,
+                "x_max": 98,
+                "y_max": 761
+            }
+        },
+        {
+            "id_deteccao": 8,
+            "classe": "sheep",
+            "confianca_pct": 28.37,
+            "geometria_bbox": {
+                "x_min": 1091,
+                "y_min": 604,
+                "x_max": 1169,
+                "y_max": 763
+            }
+        },
+        {
+            "id_deteccao": 9,
+            "classe": "sheep",
+            "confianca_pct": 26.24,
+            "geometria_bbox": {
+                "x_min": 158,
+                "y_min": 594,
+                "x_max": 243,
+                "y_max": 745
+            }
+        },
+        {
+            "id_deteccao": 10,
+            "classe": "cow",
+            "confianca_pct": 22.75,
+            "geometria_bbox": {
+                "x_min": 758,
+                "y_min": 604,
+                "x_max": 836,
+                "y_max": 760
+            }
+        },
+        {
+            "id_deteccao": 11,
+            "classe": "sheep",
+            "confianca_pct": 22.5,
+            "geometria_bbox": {
+                "x_min": 831,
+                "y_min": 607,
+                "x_max": 903,
+                "y_max": 766
+            }
+        },
+        {
+            "id_deteccao": 12,
+            "classe": "sheep",
+            "confianca_pct": 22.17,
+            "geometria_bbox": {
+                "x_min": 720,
+                "y_min": 561,
+                "x_max": 786,
+                "y_max": 730
+            }
+        },
+        {
+            "id_deteccao": 13,
+            "classe": "sheep",
+            "confianca_pct": 20.69,
+            "geometria_bbox": {
+                "x_min": 658,
+                "y_min": 589,
+                "x_max": 723,
+                "y_max": 730
+            }
+        }
+    ]
+}

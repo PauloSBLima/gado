@@ -1,0 +1,34 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:28:44Z",
+        "modelo_utilizado": "yolov8l-world.pt",
+        "opcao_escolhida": "40",
+        "total_cabecas_detectadas": 2,
+        "confianca_media_lote": 31.84,
+        "tempo_inferencia_ms": 3127.87
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "horse",
+            "confianca_pct": 41.8,
+            "geometria_bbox": {
+                "x_min": 314,
+                "y_min": 579,
+                "x_max": 453,
+                "y_max": 800
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "horse",
+            "confianca_pct": 21.88,
+            "geometria_bbox": {
+                "x_min": 583,
+                "y_min": 576,
+                "x_max": 683,
+                "y_max": 800
+            }
+        }
+    ]
+}

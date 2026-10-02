@@ -1,0 +1,89 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:29:31Z",
+        "modelo_utilizado": "yolov8x-oiv7.pt",
+        "opcao_escolhida": "15",
+        "total_cabecas_detectadas": 7,
+        "confianca_media_lote": 25.61,
+        "tempo_inferencia_ms": 3232.52
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "Cattle",
+            "confianca_pct": 28.87,
+            "geometria_bbox": {
+                "x_min": 157,
+                "y_min": 583,
+                "x_max": 243,
+                "y_max": 743
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "Cattle",
+            "confianca_pct": 28.52,
+            "geometria_bbox": {
+                "x_min": 830,
+                "y_min": 600,
+                "x_max": 903,
+                "y_max": 765
+            }
+        },
+        {
+            "id_deteccao": 3,
+            "classe": "Cattle",
+            "confianca_pct": 26.76,
+            "geometria_bbox": {
+                "x_min": 717,
+                "y_min": 572,
+                "x_max": 787,
+                "y_max": 737
+            }
+        },
+        {
+            "id_deteccao": 4,
+            "classe": "Cattle",
+            "confianca_pct": 26.51,
+            "geometria_bbox": {
+                "x_min": 7,
+                "y_min": 572,
+                "x_max": 98,
+                "y_max": 760
+            }
+        },
+        {
+            "id_deteccao": 5,
+            "classe": "Cattle",
+            "confianca_pct": 24.57,
+            "geometria_bbox": {
+                "x_min": 901,
+                "y_min": 615,
+                "x_max": 984,
+                "y_max": 793
+            }
+        },
+        {
+            "id_deteccao": 6,
+            "classe": "Cattle",
+            "confianca_pct": 23.74,
+            "geometria_bbox": {
+                "x_min": 759,
+                "y_min": 601,
+                "x_max": 839,
+                "y_max": 759
+            }
+        },
+        {
+            "id_deteccao": 7,
+            "classe": "Cattle",
+            "confianca_pct": 20.29,
+            "geometria_bbox": {
+                "x_min": 84,
+                "y_min": 592,
+                "x_max": 170,
+                "y_max": 763
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-02T21:26:04Z",
+        "modelo_utilizado": "yolov9e.pt",
+        "opcao_escolhida": "17",
+        "total_cabecas_detectadas": 0,
+        "confianca_media_lote": 0,
+        "tempo_inferencia_ms": 11913.3
+    },
+    "detalhamento_animais": []
+}

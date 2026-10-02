@@ -1,0 +1,1431 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:22:57Z",
+        "modelo_utilizado": "yolov8l-world.pt",
+        "opcao_escolhida": "40",
+        "total_cabecas_detectadas": 129,
+        "confianca_media_lote": 51.25,
+        "tempo_inferencia_ms": 2309.0
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "sheep",
+            "confianca_pct": 79.24,
+            "geometria_bbox": {
+                "x_min": 780,
+                "y_min": 3363,
+                "x_max": 1045,
+                "y_max": 3533
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "sheep",
+            "confianca_pct": 78.87,
+            "geometria_bbox": {
+                "x_min": 2214,
+                "y_min": 3200,
+                "x_max": 2425,
+                "y_max": 3310
+            }
+        },
+        {
+            "id_deteccao": 3,
+            "classe": "sheep",
+            "confianca_pct": 78.4,
+            "geometria_bbox": {
+                "x_min": 1518,
+                "y_min": 3278,
+                "x_max": 1782,
+                "y_max": 3415
+            }
+        },
+        {
+            "id_deteccao": 4,
+            "classe": "sheep",
+            "confianca_pct": 78.1,
+            "geometria_bbox": {
+                "x_min": 1926,
+                "y_min": 2824,
+                "x_max": 2084,
+                "y_max": 2952
+            }
+        },
+        {
+            "id_deteccao": 5,
+            "classe": "sheep",
+            "confianca_pct": 77.69,
+            "geometria_bbox": {
+                "x_min": 1624,
+                "y_min": 2991,
+                "x_max": 1794,
+                "y_max": 3112
+            }
+        },
+        {
+            "id_deteccao": 6,
+            "classe": "sheep",
+            "confianca_pct": 76.57,
+            "geometria_bbox": {
+                "x_min": 615,
+                "y_min": 2703,
+                "x_max": 814,
+                "y_max": 2812
+            }
+        },
+        {
+            "id_deteccao": 7,
+            "classe": "sheep",
+            "confianca_pct": 75.14,
+            "geometria_bbox": {
+                "x_min": 2275,
+                "y_min": 1416,
+                "x_max": 2357,
+                "y_max": 1504
+            }
+        },
+        {
+            "id_deteccao": 8,
+            "classe": "sheep",
+            "confianca_pct": 75.04,
+            "geometria_bbox": {
+                "x_min": 340,
+                "y_min": 2712,
+                "x_max": 526,
+                "y_max": 2834
+            }
+        },
+        {
+            "id_deteccao": 9,
+            "classe": "sheep",
+            "confianca_pct": 75.0,
+            "geometria_bbox": {
+                "x_min": 554,
+                "y_min": 2998,
+                "x_max": 783,
+                "y_max": 3114
+            }
+        },
+        {
+            "id_deteccao": 10,
+            "classe": "sheep",
+            "confianca_pct": 73.88,
+            "geometria_bbox": {
+                "x_min": 2262,
+                "y_min": 2768,
+                "x_max": 2413,
+                "y_max": 2889
+            }
+        },
+        {
+            "id_deteccao": 11,
+            "classe": "sheep",
+            "confianca_pct": 73.73,
+            "geometria_bbox": {
+                "x_min": 165,
+                "y_min": 2892,
+                "x_max": 354,
+                "y_max": 3003
+            }
+        },
+        {
+            "id_deteccao": 12,
+            "classe": "sheep",
+            "confianca_pct": 73.66,
+            "geometria_bbox": {
+                "x_min": 1903,
+                "y_min": 2712,
+                "x_max": 2066,
+                "y_max": 2817
+            }
+        },
+        {
+            "id_deteccao": 13,
+            "classe": "sheep",
+            "confianca_pct": 72.94,
+            "geometria_bbox": {
+                "x_min": 1661,
+                "y_min": 2276,
+                "x_max": 1817,
+                "y_max": 2372
+            }
+        },
+        {
+            "id_deteccao": 14,
+            "classe": "sheep",
+            "confianca_pct": 72.25,
+            "geometria_bbox": {
+                "x_min": 364,
+                "y_min": 3229,
+                "x_max": 605,
+                "y_max": 3361
+            }
+        },
+        {
+            "id_deteccao": 15,
+            "classe": "sheep",
+            "confianca_pct": 71.64,
+            "geometria_bbox": {
+                "x_min": 1046,
+                "y_min": 2367,
+                "x_max": 1196,
+                "y_max": 2482
+            }
+        },
+        {
+            "id_deteccao": 16,
+            "classe": "sheep",
+            "confianca_pct": 71.13,
+            "geometria_bbox": {
+                "x_min": 1190,
+                "y_min": 3158,
+                "x_max": 1432,
+                "y_max": 3289
+            }
+        },
+        {
+            "id_deteccao": 17,
+            "classe": "sheep",
+            "confianca_pct": 71.03,
+            "geometria_bbox": {
+                "x_min": 1435,
+                "y_min": 2371,
+                "x_max": 1634,
+                "y_max": 2477
+            }
+        },
+        {
+            "id_deteccao": 18,
+            "classe": "sheep",
+            "confianca_pct": 69.62,
+            "geometria_bbox": {
+                "x_min": 2428,
+                "y_min": 2562,
+                "x_max": 2587,
+                "y_max": 2654
+            }
+        },
+        {
+            "id_deteccao": 19,
+            "classe": "sheep",
+            "confianca_pct": 69.03,
+            "geometria_bbox": {
+                "x_min": 786,
+                "y_min": 1959,
+                "x_max": 943,
+                "y_max": 2063
+            }
+        },
+        {
+            "id_deteccao": 20,
+            "classe": "sheep",
+            "confianca_pct": 68.72,
+            "geometria_bbox": {
+                "x_min": 1890,
+                "y_min": 3179,
+                "x_max": 2012,
+                "y_max": 3293
+            }
+        },
+        {
+            "id_deteccao": 21,
+            "classe": "sheep",
+            "confianca_pct": 68.71,
+            "geometria_bbox": {
+                "x_min": 1066,
+                "y_min": 3102,
+                "x_max": 1281,
+                "y_max": 3207
+            }
+        },
+        {
+            "id_deteccao": 22,
+            "classe": "sheep",
+            "confianca_pct": 68.36,
+            "geometria_bbox": {
+                "x_min": 225,
+                "y_min": 1803,
+                "x_max": 357,
+                "y_max": 1892
+            }
+        },
+        {
+            "id_deteccao": 23,
+            "classe": "sheep",
+            "confianca_pct": 68.15,
+            "geometria_bbox": {
+                "x_min": 577,
+                "y_min": 3261,
+                "x_max": 853,
+                "y_max": 3414
+            }
+        },
+        {
+            "id_deteccao": 24,
+            "classe": "sheep",
+            "confianca_pct": 68.13,
+            "geometria_bbox": {
+                "x_min": 2281,
+                "y_min": 1832,
+                "x_max": 2432,
+                "y_max": 1929
+            }
+        },
+        {
+            "id_deteccao": 25,
+            "classe": "sheep",
+            "confianca_pct": 67.73,
+            "geometria_bbox": {
+                "x_min": 619,
+                "y_min": 3118,
+                "x_max": 846,
+                "y_max": 3223
+            }
+        },
+        {
+            "id_deteccao": 26,
+            "classe": "sheep",
+            "confianca_pct": 67.51,
+            "geometria_bbox": {
+                "x_min": 14,
+                "y_min": 1927,
+                "x_max": 166,
+                "y_max": 2009
+            }
+        },
+        {
+            "id_deteccao": 27,
+            "classe": "sheep",
+            "confianca_pct": 66.94,
+            "geometria_bbox": {
+                "x_min": 1728,
+                "y_min": 1116,
+                "x_max": 1821,
+                "y_max": 1193
+            }
+        },
+        {
+            "id_deteccao": 28,
+            "classe": "sheep",
+            "confianca_pct": 66.93,
+            "geometria_bbox": {
+                "x_min": 519,
+                "y_min": 2900,
+                "x_max": 720,
+                "y_max": 3016
+            }
+        },
+        {
+            "id_deteccao": 29,
+            "classe": "sheep",
+            "confianca_pct": 66.64,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 2913,
+                "x_max": 154,
+                "y_max": 3053
+            }
+        },
+        {
+            "id_deteccao": 30,
+            "classe": "sheep",
+            "confianca_pct": 66.42,
+            "geometria_bbox": {
+                "x_min": 1006,
+                "y_min": 2166,
+                "x_max": 1159,
+                "y_max": 2253
+            }
+        },
+        {
+            "id_deteccao": 31,
+            "classe": "sheep",
+            "confianca_pct": 65.67,
+            "geometria_bbox": {
+                "x_min": 2334,
+                "y_min": 1294,
+                "x_max": 2448,
+                "y_max": 1373
+            }
+        },
+        {
+            "id_deteccao": 32,
+            "classe": "sheep",
+            "confianca_pct": 65.09,
+            "geometria_bbox": {
+                "x_min": 1939,
+                "y_min": 3092,
+                "x_max": 2134,
+                "y_max": 3205
+            }
+        },
+        {
+            "id_deteccao": 33,
+            "classe": "sheep",
+            "confianca_pct": 64.88,
+            "geometria_bbox": {
+                "x_min": 8,
+                "y_min": 1794,
+                "x_max": 66,
+                "y_max": 1862
+            }
+        },
+        {
+            "id_deteccao": 34,
+            "classe": "sheep",
+            "confianca_pct": 64.01,
+            "geometria_bbox": {
+                "x_min": 2380,
+                "y_min": 744,
+                "x_max": 2495,
+                "y_max": 815
+            }
+        },
+        {
+            "id_deteccao": 35,
+            "classe": "sheep",
+            "confianca_pct": 63.94,
+            "geometria_bbox": {
+                "x_min": 792,
+                "y_min": 2576,
+                "x_max": 997,
+                "y_max": 2696
+            }
+        },
+        {
+            "id_deteccao": 36,
+            "classe": "sheep",
+            "confianca_pct": 63.81,
+            "geometria_bbox": {
+                "x_min": 1953,
+                "y_min": 906,
+                "x_max": 2023,
+                "y_max": 969
+            }
+        },
+        {
+            "id_deteccao": 37,
+            "classe": "sheep",
+            "confianca_pct": 63.68,
+            "geometria_bbox": {
+                "x_min": 1429,
+                "y_min": 975,
+                "x_max": 1522,
+                "y_max": 1043
+            }
+        },
+        {
+            "id_deteccao": 38,
+            "classe": "sheep",
+            "confianca_pct": 63.13,
+            "geometria_bbox": {
+                "x_min": 543,
+                "y_min": 1350,
+                "x_max": 619,
+                "y_max": 1434
+            }
+        },
+        {
+            "id_deteccao": 39,
+            "classe": "sheep",
+            "confianca_pct": 62.94,
+            "geometria_bbox": {
+                "x_min": 2407,
+                "y_min": 2408,
+                "x_max": 2520,
+                "y_max": 2525
+            }
+        },
+        {
+            "id_deteccao": 40,
+            "classe": "sheep",
+            "confianca_pct": 62.84,
+            "geometria_bbox": {
+                "x_min": 1424,
+                "y_min": 2913,
+                "x_max": 1651,
+                "y_max": 3039
+            }
+        },
+        {
+            "id_deteccao": 41,
+            "classe": "sheep",
+            "confianca_pct": 62.64,
+            "geometria_bbox": {
+                "x_min": 1091,
+                "y_min": 1026,
+                "x_max": 1184,
+                "y_max": 1098
+            }
+        },
+        {
+            "id_deteccao": 42,
+            "classe": "sheep",
+            "confianca_pct": 62.62,
+            "geometria_bbox": {
+                "x_min": 556,
+                "y_min": 2433,
+                "x_max": 763,
+                "y_max": 2549
+            }
+        },
+        {
+            "id_deteccao": 43,
+            "classe": "sheep",
+            "confianca_pct": 62.57,
+            "geometria_bbox": {
+                "x_min": 2506,
+                "y_min": 233,
+                "x_max": 2580,
+                "y_max": 283
+            }
+        },
+        {
+            "id_deteccao": 44,
+            "classe": "sheep",
+            "confianca_pct": 62.35,
+            "geometria_bbox": {
+                "x_min": 2465,
+                "y_min": 2318,
+                "x_max": 2588,
+                "y_max": 2417
+            }
+        },
+        {
+            "id_deteccao": 45,
+            "classe": "sheep",
+            "confianca_pct": 61.64,
+            "geometria_bbox": {
+                "x_min": 1466,
+                "y_min": 1871,
+                "x_max": 1626,
+                "y_max": 1971
+            }
+        },
+        {
+            "id_deteccao": 46,
+            "classe": "sheep",
+            "confianca_pct": 61.61,
+            "geometria_bbox": {
+                "x_min": 776,
+                "y_min": 3161,
+                "x_max": 1013,
+                "y_max": 3284
+            }
+        },
+        {
+            "id_deteccao": 47,
+            "classe": "sheep",
+            "confianca_pct": 61.39,
+            "geometria_bbox": {
+                "x_min": 2079,
+                "y_min": 959,
+                "x_max": 2173,
+                "y_max": 1038
+            }
+        },
+        {
+            "id_deteccao": 48,
+            "classe": "sheep",
+            "confianca_pct": 58.8,
+            "geometria_bbox": {
+                "x_min": 516,
+                "y_min": 2247,
+                "x_max": 711,
+                "y_max": 2353
+            }
+        },
+        {
+            "id_deteccao": 49,
+            "classe": "sheep",
+            "confianca_pct": 58.64,
+            "geometria_bbox": {
+                "x_min": 728,
+                "y_min": 2284,
+                "x_max": 909,
+                "y_max": 2394
+            }
+        },
+        {
+            "id_deteccao": 50,
+            "classe": "sheep",
+            "confianca_pct": 58.58,
+            "geometria_bbox": {
+                "x_min": 119,
+                "y_min": 462,
+                "x_max": 197,
+                "y_max": 514
+            }
+        },
+        {
+            "id_deteccao": 51,
+            "classe": "sheep",
+            "confianca_pct": 58.24,
+            "geometria_bbox": {
+                "x_min": 1291,
+                "y_min": 1494,
+                "x_max": 1420,
+                "y_max": 1581
+            }
+        },
+        {
+            "id_deteccao": 52,
+            "classe": "sheep",
+            "confianca_pct": 57.96,
+            "geometria_bbox": {
+                "x_min": 2007,
+                "y_min": 1195,
+                "x_max": 2140,
+                "y_max": 1269
+            }
+        },
+        {
+            "id_deteccao": 53,
+            "classe": "sheep",
+            "confianca_pct": 57.33,
+            "geometria_bbox": {
+                "x_min": 858,
+                "y_min": 2391,
+                "x_max": 1039,
+                "y_max": 2491
+            }
+        },
+        {
+            "id_deteccao": 54,
+            "classe": "sheep",
+            "confianca_pct": 57.09,
+            "geometria_bbox": {
+                "x_min": 65,
+                "y_min": 2521,
+                "x_max": 233,
+                "y_max": 2646
+            }
+        },
+        {
+            "id_deteccao": 55,
+            "classe": "sheep",
+            "confianca_pct": 56.97,
+            "geometria_bbox": {
+                "x_min": 455,
+                "y_min": 2490,
+                "x_max": 649,
+                "y_max": 2599
+            }
+        },
+        {
+            "id_deteccao": 56,
+            "classe": "sheep",
+            "confianca_pct": 56.31,
+            "geometria_bbox": {
+                "x_min": 1404,
+                "y_min": 1281,
+                "x_max": 1484,
+                "y_max": 1352
+            }
+        },
+        {
+            "id_deteccao": 57,
+            "classe": "sheep",
+            "confianca_pct": 55.51,
+            "geometria_bbox": {
+                "x_min": 2038,
+                "y_min": 540,
+                "x_max": 2080,
+                "y_max": 594
+            }
+        },
+        {
+            "id_deteccao": 58,
+            "classe": "sheep",
+            "confianca_pct": 55.2,
+            "geometria_bbox": {
+                "x_min": 1740,
+                "y_min": 2836,
+                "x_max": 1896,
+                "y_max": 2934
+            }
+        },
+        {
+            "id_deteccao": 59,
+            "classe": "sheep",
+            "confianca_pct": 54.96,
+            "geometria_bbox": {
+                "x_min": 165,
+                "y_min": 2203,
+                "x_max": 327,
+                "y_max": 2301
+            }
+        },
+        {
+            "id_deteccao": 60,
+            "classe": "sheep",
+            "confianca_pct": 54.65,
+            "geometria_bbox": {
+                "x_min": 1751,
+                "y_min": 2716,
+                "x_max": 1869,
+                "y_max": 2829
+            }
+        },
+        {
+            "id_deteccao": 61,
+            "classe": "sheep",
+            "confianca_pct": 54.55,
+            "geometria_bbox": {
+                "x_min": 1247,
+                "y_min": 1900,
+                "x_max": 1399,
+                "y_max": 1999
+            }
+        },
+        {
+            "id_deteccao": 62,
+            "classe": "sheep",
+            "confianca_pct": 54.35,
+            "geometria_bbox": {
+                "x_min": 1042,
+                "y_min": 1751,
+                "x_max": 1218,
+                "y_max": 1841
+            }
+        },
+        {
+            "id_deteccao": 63,
+            "classe": "sheep",
+            "confianca_pct": 54.23,
+            "geometria_bbox": {
+                "x_min": 248,
+                "y_min": 130,
+                "x_max": 303,
+                "y_max": 176
+            }
+        },
+        {
+            "id_deteccao": 64,
+            "classe": "sheep",
+            "confianca_pct": 53.69,
+            "geometria_bbox": {
+                "x_min": 751,
+                "y_min": 1051,
+                "x_max": 812,
+                "y_max": 1114
+            }
+        },
+        {
+            "id_deteccao": 65,
+            "classe": "sheep",
+            "confianca_pct": 53.35,
+            "geometria_bbox": {
+                "x_min": 281,
+                "y_min": 295,
+                "x_max": 336,
+                "y_max": 345
+            }
+        },
+        {
+            "id_deteccao": 66,
+            "classe": "sheep",
+            "confianca_pct": 51.9,
+            "geometria_bbox": {
+                "x_min": 740,
+                "y_min": 0,
+                "x_max": 817,
+                "y_max": 47
+            }
+        },
+        {
+            "id_deteccao": 67,
+            "classe": "sheep",
+            "confianca_pct": 51.71,
+            "geometria_bbox": {
+                "x_min": 1469,
+                "y_min": 1557,
+                "x_max": 1620,
+                "y_max": 1634
+            }
+        },
+        {
+            "id_deteccao": 68,
+            "classe": "sheep",
+            "confianca_pct": 50.54,
+            "geometria_bbox": {
+                "x_min": 1965,
+                "y_min": 1987,
+                "x_max": 2104,
+                "y_max": 2084
+            }
+        },
+        {
+            "id_deteccao": 69,
+            "classe": "sheep",
+            "confianca_pct": 49.56,
+            "geometria_bbox": {
+                "x_min": 459,
+                "y_min": 1317,
+                "x_max": 549,
+                "y_max": 1384
+            }
+        },
+        {
+            "id_deteccao": 70,
+            "classe": "sheep",
+            "confianca_pct": 49.52,
+            "geometria_bbox": {
+                "x_min": 347,
+                "y_min": 360,
+                "x_max": 450,
+                "y_max": 416
+            }
+        },
+        {
+            "id_deteccao": 71,
+            "classe": "sheep",
+            "confianca_pct": 48.88,
+            "geometria_bbox": {
+                "x_min": 808,
+                "y_min": 2472,
+                "x_max": 978,
+                "y_max": 2569
+            }
+        },
+        {
+            "id_deteccao": 72,
+            "classe": "sheep",
+            "confianca_pct": 48.85,
+            "geometria_bbox": {
+                "x_min": 971,
+                "y_min": 1362,
+                "x_max": 1081,
+                "y_max": 1435
+            }
+        },
+        {
+            "id_deteccao": 73,
+            "classe": "sheep",
+            "confianca_pct": 48.84,
+            "geometria_bbox": {
+                "x_min": 271,
+                "y_min": 930,
+                "x_max": 335,
+                "y_max": 977
+            }
+        },
+        {
+            "id_deteccao": 74,
+            "classe": "sheep",
+            "confianca_pct": 48.43,
+            "geometria_bbox": {
+                "x_min": 2337,
+                "y_min": 268,
+                "x_max": 2417,
+                "y_max": 328
+            }
+        },
+        {
+            "id_deteccao": 75,
+            "classe": "sheep",
+            "confianca_pct": 48.29,
+            "geometria_bbox": {
+                "x_min": 783,
+                "y_min": 1369,
+                "x_max": 863,
+                "y_max": 1471
+            }
+        },
+        {
+            "id_deteccao": 76,
+            "classe": "sheep",
+            "confianca_pct": 48.26,
+            "geometria_bbox": {
+                "x_min": 2098,
+                "y_min": 369,
+                "x_max": 2186,
+                "y_max": 430
+            }
+        },
+        {
+            "id_deteccao": 77,
+            "classe": "sheep",
+            "confianca_pct": 48.18,
+            "geometria_bbox": {
+                "x_min": 433,
+                "y_min": 2191,
+                "x_max": 625,
+                "y_max": 2297
+            }
+        },
+        {
+            "id_deteccao": 78,
+            "classe": "sheep",
+            "confianca_pct": 47.8,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 2815,
+                "x_max": 108,
+                "y_max": 2919
+            }
+        },
+        {
+            "id_deteccao": 79,
+            "classe": "sheep",
+            "confianca_pct": 47.66,
+            "geometria_bbox": {
+                "x_min": 1418,
+                "y_min": 1747,
+                "x_max": 1591,
+                "y_max": 1838
+            }
+        },
+        {
+            "id_deteccao": 80,
+            "classe": "sheep",
+            "confianca_pct": 47.37,
+            "geometria_bbox": {
+                "x_min": 547,
+                "y_min": 1581,
+                "x_max": 637,
+                "y_max": 1656
+            }
+        },
+        {
+            "id_deteccao": 81,
+            "classe": "sheep",
+            "confianca_pct": 46.95,
+            "geometria_bbox": {
+                "x_min": 481,
+                "y_min": 251,
+                "x_max": 556,
+                "y_max": 302
+            }
+        },
+        {
+            "id_deteccao": 82,
+            "classe": "sheep",
+            "confianca_pct": 46.86,
+            "geometria_bbox": {
+                "x_min": 1877,
+                "y_min": 1997,
+                "x_max": 1977,
+                "y_max": 2087
+            }
+        },
+        {
+            "id_deteccao": 83,
+            "classe": "sheep",
+            "confianca_pct": 46.83,
+            "geometria_bbox": {
+                "x_min": 916,
+                "y_min": 3124,
+                "x_max": 1056,
+                "y_max": 3244
+            }
+        },
+        {
+            "id_deteccao": 84,
+            "classe": "sheep",
+            "confianca_pct": 45.84,
+            "geometria_bbox": {
+                "x_min": 588,
+                "y_min": 1137,
+                "x_max": 651,
+                "y_max": 1183
+            }
+        },
+        {
+            "id_deteccao": 85,
+            "classe": "sheep",
+            "confianca_pct": 45.23,
+            "geometria_bbox": {
+                "x_min": 1975,
+                "y_min": 1,
+                "x_max": 2065,
+                "y_max": 52
+            }
+        },
+        {
+            "id_deteccao": 86,
+            "classe": "sheep",
+            "confianca_pct": 43.47,
+            "geometria_bbox": {
+                "x_min": 889,
+                "y_min": 1366,
+                "x_max": 963,
+                "y_max": 1429
+            }
+        },
+        {
+            "id_deteccao": 87,
+            "classe": "sheep",
+            "confianca_pct": 42.87,
+            "geometria_bbox": {
+                "x_min": 616,
+                "y_min": 53,
+                "x_max": 695,
+                "y_max": 100
+            }
+        },
+        {
+            "id_deteccao": 88,
+            "classe": "sheep",
+            "confianca_pct": 42.4,
+            "geometria_bbox": {
+                "x_min": 1750,
+                "y_min": 1271,
+                "x_max": 1871,
+                "y_max": 1348
+            }
+        },
+        {
+            "id_deteccao": 89,
+            "classe": "sheep",
+            "confianca_pct": 42.17,
+            "geometria_bbox": {
+                "x_min": 167,
+                "y_min": 2410,
+                "x_max": 338,
+                "y_max": 2516
+            }
+        },
+        {
+            "id_deteccao": 90,
+            "classe": "sheep",
+            "confianca_pct": 42.08,
+            "geometria_bbox": {
+                "x_min": 490,
+                "y_min": 884,
+                "x_max": 584,
+                "y_max": 949
+            }
+        },
+        {
+            "id_deteccao": 91,
+            "classe": "sheep",
+            "confianca_pct": 41.95,
+            "geometria_bbox": {
+                "x_min": 1613,
+                "y_min": 2885,
+                "x_max": 1781,
+                "y_max": 2980
+            }
+        },
+        {
+            "id_deteccao": 92,
+            "classe": "sheep",
+            "confianca_pct": 41.81,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 3108,
+                "x_max": 185,
+                "y_max": 3199
+            }
+        },
+        {
+            "id_deteccao": 93,
+            "classe": "sheep",
+            "confianca_pct": 40.01,
+            "geometria_bbox": {
+                "x_min": 672,
+                "y_min": 1757,
+                "x_max": 831,
+                "y_max": 1848
+            }
+        },
+        {
+            "id_deteccao": 94,
+            "classe": "sheep",
+            "confianca_pct": 39.45,
+            "geometria_bbox": {
+                "x_min": 269,
+                "y_min": 1713,
+                "x_max": 326,
+                "y_max": 1789
+            }
+        },
+        {
+            "id_deteccao": 95,
+            "classe": "sheep",
+            "confianca_pct": 39.26,
+            "geometria_bbox": {
+                "x_min": 1490,
+                "y_min": 252,
+                "x_max": 1572,
+                "y_max": 301
+            }
+        },
+        {
+            "id_deteccao": 96,
+            "classe": "sheep",
+            "confianca_pct": 37.61,
+            "geometria_bbox": {
+                "x_min": 461,
+                "y_min": 1492,
+                "x_max": 614,
+                "y_max": 1600
+            }
+        },
+        {
+            "id_deteccao": 97,
+            "classe": "sheep",
+            "confianca_pct": 37.37,
+            "geometria_bbox": {
+                "x_min": 1153,
+                "y_min": 1597,
+                "x_max": 1278,
+                "y_max": 1663
+            }
+        },
+        {
+            "id_deteccao": 98,
+            "classe": "sheep",
+            "confianca_pct": 37.09,
+            "geometria_bbox": {
+                "x_min": 619,
+                "y_min": 336,
+                "x_max": 658,
+                "y_max": 390
+            }
+        },
+        {
+            "id_deteccao": 99,
+            "classe": "sheep",
+            "confianca_pct": 36.34,
+            "geometria_bbox": {
+                "x_min": 1952,
+                "y_min": 431,
+                "x_max": 2032,
+                "y_max": 492
+            }
+        },
+        {
+            "id_deteccao": 100,
+            "classe": "sheep",
+            "confianca_pct": 35.73,
+            "geometria_bbox": {
+                "x_min": 2101,
+                "y_min": 9,
+                "x_max": 2154,
+                "y_max": 47
+            }
+        },
+        {
+            "id_deteccao": 101,
+            "classe": "sheep",
+            "confianca_pct": 35.38,
+            "geometria_bbox": {
+                "x_min": 1664,
+                "y_min": 1298,
+                "x_max": 1772,
+                "y_max": 1387
+            }
+        },
+        {
+            "id_deteccao": 102,
+            "classe": "sheep",
+            "confianca_pct": 34.89,
+            "geometria_bbox": {
+                "x_min": 154,
+                "y_min": 2032,
+                "x_max": 304,
+                "y_max": 2130
+            }
+        },
+        {
+            "id_deteccao": 103,
+            "classe": "sheep",
+            "confianca_pct": 33.94,
+            "geometria_bbox": {
+                "x_min": 2527,
+                "y_min": 1084,
+                "x_max": 2585,
+                "y_max": 1169
+            }
+        },
+        {
+            "id_deteccao": 104,
+            "classe": "sheep",
+            "confianca_pct": 33.22,
+            "geometria_bbox": {
+                "x_min": 1264,
+                "y_min": 1781,
+                "x_max": 1422,
+                "y_max": 1863
+            }
+        },
+        {
+            "id_deteccao": 105,
+            "classe": "sheep",
+            "confianca_pct": 30.44,
+            "geometria_bbox": {
+                "x_min": 1829,
+                "y_min": 2,
+                "x_max": 1896,
+                "y_max": 44
+            }
+        },
+        {
+            "id_deteccao": 106,
+            "classe": "sheep",
+            "confianca_pct": 30.42,
+            "geometria_bbox": {
+                "x_min": 2472,
+                "y_min": 431,
+                "x_max": 2565,
+                "y_max": 494
+            }
+        },
+        {
+            "id_deteccao": 107,
+            "classe": "sheep",
+            "confianca_pct": 30.31,
+            "geometria_bbox": {
+                "x_min": 1172,
+                "y_min": 1824,
+                "x_max": 1371,
+                "y_max": 1928
+            }
+        },
+        {
+            "id_deteccao": 108,
+            "classe": "sheep",
+            "confianca_pct": 30.22,
+            "geometria_bbox": {
+                "x_min": 2361,
+                "y_min": 430,
+                "x_max": 2474,
+                "y_max": 495
+            }
+        },
+        {
+            "id_deteccao": 109,
+            "classe": "sheep",
+            "confianca_pct": 29.59,
+            "geometria_bbox": {
+                "x_min": 2229,
+                "y_min": 0,
+                "x_max": 2311,
+                "y_max": 34
+            }
+        },
+        {
+            "id_deteccao": 110,
+            "classe": "sheep",
+            "confianca_pct": 29.15,
+            "geometria_bbox": {
+                "x_min": 273,
+                "y_min": 2005,
+                "x_max": 427,
+                "y_max": 2091
+            }
+        },
+        {
+            "id_deteccao": 111,
+            "classe": "sheep",
+            "confianca_pct": 29.03,
+            "geometria_bbox": {
+                "x_min": 1581,
+                "y_min": 1317,
+                "x_max": 1693,
+                "y_max": 1395
+            }
+        },
+        {
+            "id_deteccao": 112,
+            "classe": "sheep",
+            "confianca_pct": 27.82,
+            "geometria_bbox": {
+                "x_min": 1390,
+                "y_min": 2795,
+                "x_max": 1581,
+                "y_max": 2910
+            }
+        },
+        {
+            "id_deteccao": 113,
+            "classe": "sheep",
+            "confianca_pct": 27.81,
+            "geometria_bbox": {
+                "x_min": 891,
+                "y_min": 1556,
+                "x_max": 1023,
+                "y_max": 1639
+            }
+        },
+        {
+            "id_deteccao": 114,
+            "classe": "sheep",
+            "confianca_pct": 27.6,
+            "geometria_bbox": {
+                "x_min": 366,
+                "y_min": 1396,
+                "x_max": 474,
+                "y_max": 1467
+            }
+        },
+        {
+            "id_deteccao": 115,
+            "classe": "sheep",
+            "confianca_pct": 27.54,
+            "geometria_bbox": {
+                "x_min": 1597,
+                "y_min": 1715,
+                "x_max": 1761,
+                "y_max": 1822
+            }
+        },
+        {
+            "id_deteccao": 116,
+            "classe": "sheep",
+            "confianca_pct": 27.05,
+            "geometria_bbox": {
+                "x_min": 1750,
+                "y_min": 1199,
+                "x_max": 1831,
+                "y_max": 1269
+            }
+        },
+        {
+            "id_deteccao": 117,
+            "classe": "sheep",
+            "confianca_pct": 26.66,
+            "geometria_bbox": {
+                "x_min": 298,
+                "y_min": 2124,
+                "x_max": 416,
+                "y_max": 2229
+            }
+        },
+        {
+            "id_deteccao": 118,
+            "classe": "sheep",
+            "confianca_pct": 26.1,
+            "geometria_bbox": {
+                "x_min": 1942,
+                "y_min": 61,
+                "x_max": 2011,
+                "y_max": 109
+            }
+        },
+        {
+            "id_deteccao": 119,
+            "classe": "sheep",
+            "confianca_pct": 25.91,
+            "geometria_bbox": {
+                "x_min": 687,
+                "y_min": 1671,
+                "x_max": 804,
+                "y_max": 1740
+            }
+        },
+        {
+            "id_deteccao": 120,
+            "classe": "sheep",
+            "confianca_pct": 25.85,
+            "geometria_bbox": {
+                "x_min": 1591,
+                "y_min": 2790,
+                "x_max": 1798,
+                "y_max": 2898
+            }
+        },
+        {
+            "id_deteccao": 121,
+            "classe": "sheep",
+            "confianca_pct": 25.58,
+            "geometria_bbox": {
+                "x_min": 2292,
+                "y_min": 551,
+                "x_max": 2369,
+                "y_max": 616
+            }
+        },
+        {
+            "id_deteccao": 122,
+            "classe": "sheep",
+            "confianca_pct": 25.57,
+            "geometria_bbox": {
+                "x_min": 744,
+                "y_min": 1699,
+                "x_max": 843,
+                "y_max": 1769
+            }
+        },
+        {
+            "id_deteccao": 123,
+            "classe": "sheep",
+            "confianca_pct": 25.55,
+            "geometria_bbox": {
+                "x_min": 1470,
+                "y_min": 308,
+                "x_max": 1541,
+                "y_max": 361
+            }
+        },
+        {
+            "id_deteccao": 124,
+            "classe": "sheep",
+            "confianca_pct": 23.99,
+            "geometria_bbox": {
+                "x_min": 2284,
+                "y_min": 796,
+                "x_max": 2318,
+                "y_max": 848
+            }
+        },
+        {
+            "id_deteccao": 125,
+            "classe": "sheep",
+            "confianca_pct": 23.16,
+            "geometria_bbox": {
+                "x_min": 345,
+                "y_min": 1386,
+                "x_max": 470,
+                "y_max": 1468
+            }
+        },
+        {
+            "id_deteccao": 126,
+            "classe": "sheep",
+            "confianca_pct": 23.16,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 3222,
+                "x_max": 113,
+                "y_max": 3337
+            }
+        },
+        {
+            "id_deteccao": 127,
+            "classe": "sheep",
+            "confianca_pct": 23.1,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 2138,
+                "x_max": 41,
+                "y_max": 2224
+            }
+        },
+        {
+            "id_deteccao": 128,
+            "classe": "sheep",
+            "confianca_pct": 22.31,
+            "geometria_bbox": {
+                "x_min": 909,
+                "y_min": 1517,
+                "x_max": 1022,
+                "y_max": 1568
+            }
+        },
+        {
+            "id_deteccao": 129,
+            "classe": "sheep",
+            "confianca_pct": 20.16,
+            "geometria_bbox": {
+                "x_min": 1,
+                "y_min": 3197,
+                "x_max": 172,
+                "y_max": 3340
+            }
+        }
+    ]
+}

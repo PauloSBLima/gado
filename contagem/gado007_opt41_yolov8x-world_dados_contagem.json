@@ -1,0 +1,100 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-02T21:28:58Z",
+        "modelo_utilizado": "yolov8x-world.pt",
+        "opcao_escolhida": "41",
+        "total_cabecas_detectadas": 8,
+        "confianca_media_lote": 71.01,
+        "tempo_inferencia_ms": 4415.88
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "cow",
+            "confianca_pct": 90.21,
+            "geometria_bbox": {
+                "x_min": 199,
+                "y_min": 846,
+                "x_max": 587,
+                "y_max": 1554
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "cow",
+            "confianca_pct": 87.37,
+            "geometria_bbox": {
+                "x_min": 590,
+                "y_min": 713,
+                "x_max": 1112,
+                "y_max": 1762
+            }
+        },
+        {
+            "id_deteccao": 3,
+            "classe": "cow",
+            "confianca_pct": 86.63,
+            "geometria_bbox": {
+                "x_min": 994,
+                "y_min": 750,
+                "x_max": 1985,
+                "y_max": 1788
+            }
+        },
+        {
+            "id_deteccao": 4,
+            "classe": "cow",
+            "confianca_pct": 85.1,
+            "geometria_bbox": {
+                "x_min": 20,
+                "y_min": 757,
+                "x_max": 323,
+                "y_max": 1351
+            }
+        },
+        {
+            "id_deteccao": 5,
+            "classe": "cow",
+            "confianca_pct": 66.84,
+            "geometria_bbox": {
+                "x_min": 2388,
+                "y_min": 773,
+                "x_max": 2560,
+                "y_max": 1261
+            }
+        },
+        {
+            "id_deteccao": 6,
+            "classe": "cow",
+            "confianca_pct": 65.88,
+            "geometria_bbox": {
+                "x_min": 2197,
+                "y_min": 777,
+                "x_max": 2504,
+                "y_max": 1115
+            }
+        },
+        {
+            "id_deteccao": 7,
+            "classe": "cow",
+            "confianca_pct": 57.45,
+            "geometria_bbox": {
+                "x_min": 260,
+                "y_min": 776,
+                "x_max": 400,
+                "y_max": 923
+            }
+        },
+        {
+            "id_deteccao": 8,
+            "classe": "cow",
+            "confianca_pct": 28.61,
+            "geometria_bbox": {
+                "x_min": 259,
+                "y_min": 776,
+                "x_max": 507,
+                "y_max": 924
+            }
+        }
+    ]
+}

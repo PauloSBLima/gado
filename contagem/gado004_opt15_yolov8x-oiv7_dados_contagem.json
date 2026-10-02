@@ -1,0 +1,133 @@
+{
+    "metadata_lote": {
+        "timestamp_processamento": "2026-10-01T21:27:23Z",
+        "modelo_utilizado": "yolov8x-oiv7.pt",
+        "opcao_escolhida": "15",
+        "total_cabecas_detectadas": 11,
+        "confianca_media_lote": 67.34,
+        "tempo_inferencia_ms": 3666.54
+    },
+    "detalhamento_animais": [
+        {
+            "id_deteccao": 1,
+            "classe": "Cattle",
+            "confianca_pct": 90.68,
+            "geometria_bbox": {
+                "x_min": 1644,
+                "y_min": 1100,
+                "x_max": 3290,
+                "y_max": 3067
+            }
+        },
+        {
+            "id_deteccao": 2,
+            "classe": "Cattle",
+            "confianca_pct": 84.79,
+            "geometria_bbox": {
+                "x_min": 2983,
+                "y_min": 960,
+                "x_max": 3987,
+                "y_max": 3071
+            }
+        },
+        {
+            "id_deteccao": 3,
+            "classe": "Cattle",
+            "confianca_pct": 84.77,
+            "geometria_bbox": {
+                "x_min": 812,
+                "y_min": 1228,
+                "x_max": 1905,
+                "y_max": 3070
+            }
+        },
+        {
+            "id_deteccao": 4,
+            "classe": "Cattle",
+            "confianca_pct": 84.27,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 1160,
+                "x_max": 1076,
+                "y_max": 3072
+            }
+        },
+        {
+            "id_deteccao": 5,
+            "classe": "Cattle",
+            "confianca_pct": 78.53,
+            "geometria_bbox": {
+                "x_min": 2763,
+                "y_min": 660,
+                "x_max": 3542,
+                "y_max": 1367
+            }
+        },
+        {
+            "id_deteccao": 6,
+            "classe": "Cattle",
+            "confianca_pct": 72.62,
+            "geometria_bbox": {
+                "x_min": 1705,
+                "y_min": 737,
+                "x_max": 2458,
+                "y_max": 1421
+            }
+        },
+        {
+            "id_deteccao": 7,
+            "classe": "Cattle",
+            "confianca_pct": 71.28,
+            "geometria_bbox": {
+                "x_min": 3651,
+                "y_min": 1365,
+                "x_max": 3988,
+                "y_max": 3062
+            }
+        },
+        {
+            "id_deteccao": 8,
+            "classe": "Cattle",
+            "confianca_pct": 45.9,
+            "geometria_bbox": {
+                "x_min": 537,
+                "y_min": 1043,
+                "x_max": 1410,
+                "y_max": 2002
+            }
+        },
+        {
+            "id_deteccao": 9,
+            "classe": "Cattle",
+            "confianca_pct": 44.65,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 632,
+                "x_max": 3988,
+                "y_max": 3068
+            }
+        },
+        {
+            "id_deteccao": 10,
+            "classe": "Cattle",
+            "confianca_pct": 43.9,
+            "geometria_bbox": {
+                "x_min": 717,
+                "y_min": 1020,
+                "x_max": 1198,
+                "y_max": 1235
+            }
+        },
+        {
+            "id_deteccao": 11,
+            "classe": "Cattle",
+            "confianca_pct": 39.29,
+            "geometria_bbox": {
+                "x_min": 0,
+                "y_min": 778,
+                "x_max": 443,
+                "y_max": 1566
+            }
+        }
+    ]
+}
