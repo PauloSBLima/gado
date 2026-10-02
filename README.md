@@ -69,6 +69,7 @@ Certifique-se de ter o Python instalado em seu ambiente e instale as bibliotecas
 
 ## 📊 7. Exemplo de Saída JSON (_dados_contagem.json)
 JSON
+```text
 {
     "metadata_lote": {
         "timestamp_processamento": "2026-10-02T21:49:30Z",
@@ -92,6 +93,7 @@ JSON
         }
     ]
 }
+```
 
 ## 💡 8. Contribuição
 Contribuições, melhorias de código ou sugestões de novos modelos são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
